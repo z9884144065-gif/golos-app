@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Golos-App Widget",
+  "version": "1.0",
+  "description": "Бесплатный ИИ-виджет для бесшумного и голосового ввода на любых сайтах.",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
